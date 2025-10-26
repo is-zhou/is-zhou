@@ -12,11 +12,16 @@
 <code><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFD62E"/></code>
 <code><img src="https://img.shields.io/badge/Webpack-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white"/></code>
 
-### 📊 Stats:
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-zhou&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+  <div style="text-align: left;">
+    <h3>📊 Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-zhou&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" height="200"/>
+  </div>
 
-### 📈 Activity Graph:
+  <div style="text-align: left;">
+    <h3>📈 Activity Graph</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=is-zhou&theme=react-dark&hide_border=true" alt="Activity Graph" height="200"/>
+  </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=is-zhou&theme=react-dark)](https://github.com/is-zhou/github-readme-activity-graph)
+</div>
