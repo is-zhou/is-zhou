@@ -17,11 +17,11 @@
 <table align="center">
   <tr>
     <td align="left" width="39%">
-      <h3>🔤 Languages</h3>
+      <h5>🔤 Languages</h5>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-zhou&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" width="100%"/>
     </td>
     <td align="left" width="60%">
-      <h3>📈 Activity Graph</h3>
+      <h5>📈 Activity Graph</h5>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=is-zhou&theme=react-dark&hide_border=false" alt="Activity Graph" width="100%"/>
     </td>
   </tr>
