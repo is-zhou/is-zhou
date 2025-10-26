@@ -12,16 +12,15 @@
 <code><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFD62E"/></code>
 <code><img src="https://img.shields.io/badge/Webpack-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white"/></code>
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
-
-  <div style="text-align: left;">
-    <h3>📊 Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-zhou&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" height="200"/>
-  </div>
-
-  <div style="text-align: left;">
-    <h3>📈 Activity Graph</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=is-zhou&theme=react-dark&hide_border=true" alt="Activity Graph" height="200"/>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="left" width="39%">
+      <h3>📊 Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-zhou&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" width="100%"/>
+    </td>
+    <td align="left" width="60%">
+      <h3>📈 Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=is-zhou&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+    </td>
+  </tr>
+</table>
